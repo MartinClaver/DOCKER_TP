@@ -1,0 +1,28 @@
+.list{
+    border: solid;
+    border-radius: 1px;
+    border-color: black;
+    height: fit-content;
+    margin: 5px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.from{
+    font-size: 15px;
+    color: grey;
+}
+
+.author{
+    color: purple;
+    font-size: 17px;
+    font-weight: bold;
+}
+.success h3{
+    color: darkgreen;
+}
+
+.fail h3{
+    color: darkred;
+}
